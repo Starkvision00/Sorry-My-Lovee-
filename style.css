@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Font style */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.letter-container {
+    width: 80%; /* Container width */
+    max-width: 600px; /* Maximum width */
+    margin: 50px auto; /* Center the container */
+    padding: 20px; /* Inner spacing */
+    background-color: #fff; /* White background for the letter */
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h1 {
+    color: #ea3847; /* Color for heading */
+}
+
+p {
+    line-height: 1.6; /* Spacing between lines */
+    color: #3e1818; /* Dark gray text */
+}
